@@ -1,0 +1,66 @@
+.public-container {
+    position: relative;
+    margin: 0 auto;
+    width: 850px;
+}
+
+.public-header {
+    height: 110px;
+    border-bottom: 5px solid #f7f6f6;
+}
+.index-header-logo {
+    float: left;
+    margin-top: 48px;
+    margin-left: 125px;
+}
+.index-header-logo a {
+    width: 138px;
+    height: 17px;
+    background: url(../img/logo_header.png);
+}
+.index-header-nav {
+    float: right;
+    margin-right: 125px;
+    margin-top: 38px;
+    font-size: 14px;
+    font-family: "Microsoft YaHei UI";
+    font-weight: bold;
+}
+.index-header-nav .item{
+    float: left;
+    margin-left: 35px;
+}
+
+.public-footer {
+    height: 220px;
+    background: #fbfbfb;
+    border-top: 5px solid #f7f6f6;
+}
+
+.public-footer-logo {
+    float: left;
+    margin-top: 80px;
+    margin-left: 125px;
+    width: 138px;
+    height: 17px;
+    background: url(../img/logo_footer.png);
+}
+
+.public-footer-link {
+    float: right;
+    margin-top: 60px;
+    margin-right: 125px;
+}
+.public-footer-link .item{
+    float: left;
+    margin-left: 28px;
+}
+
+.public-footer-copyright {
+    position: absolute;
+    float: left;
+    top: 125px;
+    left: 125px;
+    font: 10px "Microsoft YaHei UI";
+    color: #8f9191;
+}

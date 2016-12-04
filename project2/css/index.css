@@ -1,0 +1,144 @@
+.index-banner {
+    position: relative;
+    height: 440px;
+}
+
+.index-banner .index-banner-bg img{
+    display: block;
+    margin: 0 auto;
+}
+
+.index-banner .index-banner-text {
+    width: 800px;
+    height: 220px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -400px;
+    margin-top: -110px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.index-banner .index-banner-big-title {
+    font-family: "黑体";
+    font-size: 35px;
+    color: #3d5153;
+}
+
+.index-banner .index-banner-small-title {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #3d5153;
+    letter-spacing: 5px;
+}
+
+.index-banner .index-banner-btn {
+    display: block;
+    width: 240px;
+    height: 60px;
+    margin: 40px auto 0;
+    background: #97d446;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-family: "黑体";
+    font-size: 22px;
+    line-height: 60px;
+    color: #fff;
+}
+.index-banner .index-banner-btn:visited {
+    color: #fff;
+}
+
+.index-banner .index-banner-btn:link {
+    color: #fff;
+}
+
+.index-panel-body1 {
+    /*height: 418px;*/
+}
+
+.index-panel-body1 .index-panel-list {
+    display: block;
+    margin: 80px auto;
+    text-align: center;
+    width: 630px;
+    height: 258px;
+}
+
+.index-panel-body1 .index-panel-list .index-panel-item-title {
+    font-family: "黑体";
+    font-weight: bold;
+    font-size: 25px;
+    color: #575d5e;
+}
+
+.index-panel-body1 .index-panel-list .index-panel-item-summary {
+    font-family: "Microsoft YaHei UI";
+    font-size: 15px;
+    line-height: 1.8em;
+    color: #7b8888;
+}
+
+.index-panel-body1 .index-panel-list .index-panel-item {
+    display: block;
+    float: left;
+    margin-left: 30px;
+    width: 180px;
+}
+
+.index-panel-body2 {
+    height: 374px;
+    background: #f5f5f5;
+}
+
+.index-panel-body2 .index-panel-body2-container {
+    text-align: center;
+    line-height: 1.8em;
+    font-family: "Microsoft YaHei UI";
+    font-size: 18px;
+    color: #7b8888;
+    padding: 80px 100px;
+}
+
+
+.index-panel-body2 .index-panel-body2-container b{
+    color: #000;
+}
+
+.index-panel-body2 .index-panel-body2-container .index-panel-body2-container-info-by{
+    margin-top: 40px;
+}
+.index-panel-body2 .index-panel-body2-container .index-panel-body2-container-info-by a{
+    display: inline;
+    color: #98d647;
+    border-bottom: 1px dotted #98d647;
+}
+
+.index-panel-body3 {
+    height: 210px;
+}
+
+.index-panel-body3 .index-panel-body3-container .index-panel-body3-text {
+    float: left;
+    font-family: "黑体";
+    font-size: 20px;
+    margin-top: 95px;
+    margin-left: 125px;
+}
+.index-panel-body3 .index-panel-body3-container .index-panel-body3-btn {
+    float: right;
+    margin-top: 80px;
+    margin-right: 125px;
+    width: 180px;
+    height: 50px;
+    background: #94d145;
+    border-radius: 50px;
+    font-family: "黑体";
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+    text-transform: uppercase;
+}
